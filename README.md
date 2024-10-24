@@ -3,9 +3,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,45,66,89&height=300&width=1500&section=header&text=Isiwara%20Kumaragama&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Designer%20|%20Creative%20Problem%20Solver&descAlignY=58&descAlign=62)
 
 </div>
+    
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Welcome+to+Isiwara's+Digital+Space+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Creative+Problem+Solver+%F0%9F%A7%A0;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Welcome+to+Isiwara's+Digital+Space+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;3D+Animation+Designer+%F0%9F%8E%AC;Creative+Problem+Solver+%F0%9F%A7%A0;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,18 +21,18 @@ const isiwara = {
         degree: "BSc in Information Technology",
         graduationYear: 2025
     },
-    currentFocus: "Full Stack Development & UI/UX Design",
-    interests: ["Web Development", "Mobile Apps", "UI/UX", "3D Design"],
+    currentFocus: " 3D Design, Full Stack Development & UI/UX Design",
+    interests: ["Web Development", "UI/UX", "3D Design"],
     
     techStack: {
         languages: ["Python", "Java", "PHP", "JavaScript", "HTML", "CSS"],
-        frameworks: ["React", "Laravel", "Bootstrap"],
+        frameworks: ["React","Bootstrap"],
         design: ["Figma", "Adobe Creative Suite", "Blender"],
         database: ["MySQL", "MongoDB"],
-        tools: ["Git", "VS Code", "Docker"]
+        tools: ["Git", "VS Code"]
     },
     
-    currentLearning: ["React Native", "Node.js", "AWS"],
+    currentLearning: ["Node.js"],
     funFact: "I believe every pixel matters in design! 🎨"
 };
 ```
@@ -109,10 +110,14 @@ const isiwara = {
 
 </div>
 
-<div align="center">
+<!--<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=isiwarakumaragama&color=brightgreen&style=for-the-badge)
 
-</div>
+</div> -->
 
+<div align="center">
+    
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=50&animation=fadeIn&fontAlignY=70)
+
+</div>
